@@ -40,6 +40,7 @@ This will install all dependencies needed for this project:
 <br>
 <br>
 <br>
+
 ## PROJECT DOCUMENTATION
 Access this [link](https://boundless-limit-fdf.notion.site/Project-Documentation-1650c8fe467e8047b26ed05d53747343) to see the project documentation, how we created this experience and all stages of pre-produciton.<br>
 For the project techcnicall documentation, refer to the README.md file
